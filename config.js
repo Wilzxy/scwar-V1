@@ -3,10 +3,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6281215626270']
-global.premium = ['6281215626270']
-global.ownername = 'DenaraBot'
-global.packname = 'DenaraBot??'
+global.owner = ['6288232367642']
+global.premium = ['6288232367642']
+global.ownername = 'Itsme Wilz'
+global.packname = 'WilzBott?'
 global.author = 'WhatsApp 👿'
 global.sessionName = 'session'
 global.linkgrupss = 'https://chat.whatsapp.com/BiHY7oEBhQo1CsDeZgQ5dA'
